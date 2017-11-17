@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="9821" started-at="2017-11-17T00:58:26Z" finished-at="2017-11-17T00:58:36Z">
+  <suite name="Default suite" duration-ms="14402" started-at="2017-11-17T02:15:39Z" finished-at="2017-11-17T02:15:54Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="9821" started-at="2017-11-17T00:58:26Z" finished-at="2017-11-17T00:58:36Z">
-      <class name="TestCases.TestCase1">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:TestCases.TestCase1@5419f379]" name="beforeTest" is-config="true" duration-ms="6465" started-at="2017-11-16T18:58:26Z" finished-at="2017-11-16T18:58:33Z">
+    <test name="Default test" duration-ms="14402" started-at="2017-11-17T02:15:39Z" finished-at="2017-11-17T02:15:54Z">
+      <class name="TestCases.TestCase2">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:TestCases.TestCase2@5419f379]" name="beforeTest" is-config="true" duration-ms="6289" started-at="2017-11-16T20:15:39Z" finished-at="2017-11-16T20:15:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="tc1()[pri:0, instance:TestCases.TestCase1@5419f379]" name="tc1" duration-ms="3111" started-at="2017-11-16T18:58:33Z" finished-at="2017-11-16T18:58:36Z">
+        <test-method status="PASS" signature="tc2()[pri:0, instance:TestCases.TestCase2@5419f379]" name="tc2" duration-ms="5931" started-at="2017-11-16T20:15:46Z" finished-at="2017-11-16T20:15:52Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- tc1 -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:TestCases.TestCase1@5419f379]" name="afterTest" is-config="true" duration-ms="201" started-at="2017-11-16T18:58:36Z" finished-at="2017-11-16T18:58:36Z">
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:TestCases.TestCase2@5419f379]" name="afterTest" is-config="true" duration-ms="2133" started-at="2017-11-16T20:15:52Z" finished-at="2017-11-16T20:15:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-      </class> <!-- TestCases.TestCase1 -->
+      </class> <!-- TestCases.TestCase2 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
